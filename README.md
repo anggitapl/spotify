@@ -104,3 +104,4 @@ a couple manual changes within `index.html` i found needed to be made so far:
 # clone_spotify
 # spotify_clone
 # spotify_clone
+# spotify-clone
