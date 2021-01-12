@@ -101,3 +101,5 @@ a couple manual changes within `index.html` i found needed to be made so far:
   - Custom Bar for Music Player added to `<BottomTabBar />`
 - Modals (bottom to top)
   - Music Player
+# clone_spotify
+# spotify_clone
